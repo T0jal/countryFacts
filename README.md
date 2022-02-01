@@ -14,7 +14,7 @@ You can check the actual challenge page on the references.
 
 **Frameworks:** UIKIt
 
-**Dependency Manager** Cocoa Pods
+**Dependency Manager:** Cocoa Pods
 
 **Language:** Swift
 
@@ -23,7 +23,7 @@ You can check the actual challenge page on the references.
 
 ## References
 
- - [Day 59 of 100 Days of Swift](https://www.hackingwithswift.com/guide/6/3/challenge)
+ - [Challenge of Day 59 of 100 Days of Swift](https://www.hackingwithswift.com/guide/6/3/challenge)
  - [100 Days of Swift](https://www.hackingwithswift.com/100/)
  - [Hacking with Swift](https://www.hackingwithswift.com/)
 
